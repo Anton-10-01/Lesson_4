@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Пользователь\\Desktop\\Geekbrains\\Lesson_4\\example_1\\example_1.csproj": {}
+    "c:\\Users\\Пользователь\\Desktop\\Geekbrains\\Lesson_4\\example_2\\example_2.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Пользователь\\Desktop\\Geekbrains\\Lesson_4\\example_1\\example_1.csproj": {
+    "c:\\Users\\Пользователь\\Desktop\\Geekbrains\\Lesson_4\\example_2\\example_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Пользователь\\Desktop\\Geekbrains\\Lesson_4\\example_1\\example_1.csproj",
-        "projectName": "example_1",
-        "projectPath": "c:\\Users\\Пользователь\\Desktop\\Geekbrains\\Lesson_4\\example_1\\example_1.csproj",
+        "projectUniqueName": "c:\\Users\\Пользователь\\Desktop\\Geekbrains\\Lesson_4\\example_2\\example_2.csproj",
+        "projectName": "example_2",
+        "projectPath": "c:\\Users\\Пользователь\\Desktop\\Geekbrains\\Lesson_4\\example_2\\example_2.csproj",
         "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Пользователь\\Desktop\\Geekbrains\\Lesson_4\\example_1\\obj\\",
+        "outputPath": "c:\\Users\\Пользователь\\Desktop\\Geekbrains\\Lesson_4\\example_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config"
